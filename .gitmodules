@@ -1,0 +1,3 @@
+[submodule "libs/hypergon"]
+	path = libs/hypergon
+	url = git@github.com:BSoDium/hypergon.git
