@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <math.h>
-#include <common.h>
+#include <hypergon.h>
 
 // macosx
 #ifdef __APPLE__
@@ -23,6 +23,6 @@
 
 int main(__attribute__((unused)) int argc, __attribute__((unused)) char **argv)
 {
-  hypergon::hello();
+  core::hello();
   return EXIT_SUCCESS;
 }
