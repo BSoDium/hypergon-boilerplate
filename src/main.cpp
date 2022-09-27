@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <math.h>
-#include <hypergon.h>
+#include <hypergon.hpp>
 
 // macosx
 #ifdef __APPLE__
