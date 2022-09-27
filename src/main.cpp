@@ -23,6 +23,11 @@
 
 int main(__attribute__((unused)) int argc, __attribute__((unused)) char **argv)
 {
-  core::hello();
+  // Initialize the library
+  core::init();
+
+  // Start the engine
+  core::start();
+
   return EXIT_SUCCESS;
 }
