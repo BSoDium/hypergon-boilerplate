@@ -57,8 +57,11 @@
 			"cinttypes": "cpp",
 			"typeinfo": "cpp",
 			"any": "cpp",
-			"source_location": "cpp"
+			"source_location": "cpp",
+			"cstring": "cpp",
+			"map": "cpp"
 		},
+		"editor.formatOnSave": false,
 	},
 	"launch": {
 		"configurations": [
